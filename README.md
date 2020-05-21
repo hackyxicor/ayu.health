@@ -10,7 +10,7 @@ Server Code - https://github.com/hackyxicor/ayucallserver
 
 ### Get the Apk -
 
-download apk from - https://ioair.link/qbhaw4
+download apk from - https://drive.google.com/file/d/1NJjZ6bb5tQJz8HW7b2a1654soWus_6gd/view?usp=sharing
 
 ### Install Apk
 

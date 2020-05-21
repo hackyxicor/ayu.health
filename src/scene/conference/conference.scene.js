@@ -252,7 +252,7 @@ function ConferenceScene({ navigation, ...props }) {
         handleLeave();
     };
 
-    function PatientDetailsView({ patient }) {
+    function PatientDetailsView() {
         return (
             <View
                 style={styles.patientDetailsContainer}

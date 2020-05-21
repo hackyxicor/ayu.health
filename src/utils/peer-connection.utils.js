@@ -15,9 +15,7 @@ function getPeers() {
 
 function createPC(socket_id, isOffer) {
     const pc = new RTCPeerConnection(configuration);
-    const container = Utils.getContainer();
     const localStream = Utils.getLocalStream();
-    peers[socket_id] = pc;
     console.log('PC peers', socket_id, peers);
 
     pc.onicecandidate = event => {
